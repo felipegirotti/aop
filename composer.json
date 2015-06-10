@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Clickbus\\": "src/"
+        }
+    },
+    "require": {
+        "lisachenko/go-aop-php": "0.6.*",
+        "guzzlehttp/guzzle": "~6.0",
+        "monolog/monolog": "~1.13"
+    }
+}
